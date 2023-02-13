@@ -30,3 +30,15 @@ h3.andrew{
 h3.ellen{
     color:deeppink;
 }
+
+table, th, td{
+    border: solid 2px;
+    border-collapse: collapse;
+    border-style: double;
+    border-color: dodgerblue;
+    text-align: center;
+
+}
+tr:nth-child(even){
+    background-color: aqua;
+}
