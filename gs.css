@@ -39,6 +39,28 @@ table, th, td{
     text-align: center;
 
 }
+
 tr:nth-child(even){
     background-color: aqua;
 }
+
+h3.figure:hover{
+    text-shadow: 2px 3px 5px yellow;
+    border-style: dotted;
+}
+
+h3.joel:hover{
+    text-shadow: 2px 3px 5px yellow;
+    border-style: dotted;
+}
+
+h3.andrew:hover{
+    text-shadow: 2px 3px 5px yellow;
+    border-style: dotted;
+}
+
+h3.ellen:hover{
+    text-shadow: 2px 3px 5px yellow;
+    border-style: dotted;
+}
+
